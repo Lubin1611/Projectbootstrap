@@ -1,0 +1,45 @@
+body {
+    color: white;
+    font-family: 'Roboto';
+}
+
+ul li {
+    color: black;
+}
+
+
+
+#pub {
+    height: 100px;
+    width: 100%;
+}
+
+#main {
+    background-color: rebeccapurple;
+    text-align: center;
+    padding: 100px;
+    box-sizing: border-box;
+}
+
+#gagnant {
+    margin-bottom: 85px;
+}
+
+h2 {
+    margin-top: 50px ;
+    margin-bottom: 30px;
+}
+
+h1, h2 {
+    font-family: 'Bai Jamjuree';
+}
+
+h1 {
+    border: 6px white solid;
+    padding: 50px;
+}
+
+#space {
+    background-color: white;
+    height: 6px;
+}
